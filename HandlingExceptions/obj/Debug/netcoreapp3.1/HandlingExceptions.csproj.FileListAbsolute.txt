@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.exe
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.deps.json
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.dll
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\bin\Debug\netcoreapp3.1\HandlingExceptions.pdb
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.g.resources
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.dll
+D:\Research_and_Development\wpf-research-development\HandlingExceptions\obj\Debug\netcoreapp3.1\HandlingExceptions.pdb

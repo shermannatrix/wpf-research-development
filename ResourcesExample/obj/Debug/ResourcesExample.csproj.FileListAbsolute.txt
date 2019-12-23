@@ -1,0 +1,14 @@
+D:\Research_and_Development\wpf-research-development\ResourcesExample\bin\Debug\ResourcesExample.exe.config
+D:\Research_and_Development\wpf-research-development\ResourcesExample\bin\Debug\ResourcesExample.exe
+D:\Research_and_Development\wpf-research-development\ResourcesExample\bin\Debug\ResourcesExample.pdb
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\App.g.cs
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample.g.resources
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample.Properties.Resources.resources
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample.csproj.GenerateResource.cache
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample.exe
+D:\Research_and_Development\wpf-research-development\ResourcesExample\obj\Debug\ResourcesExample.pdb
