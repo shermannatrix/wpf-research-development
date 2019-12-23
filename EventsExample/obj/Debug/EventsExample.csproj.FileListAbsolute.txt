@@ -12,3 +12,17 @@ D:\Research_and_Development\wpf-research-development\Chapter02\EventsExample\obj
 D:\Research_and_Development\wpf-research-development\Chapter02\EventsExample\obj\Debug\EventsExample.csproj.GenerateResource.cache
 D:\Research_and_Development\wpf-research-development\Chapter02\EventsExample\obj\Debug\EventsExample.exe
 D:\Research_and_Development\wpf-research-development\Chapter02\EventsExample\obj\Debug\EventsExample.pdb
+D:\Research_and_Development\wpf-research-development\EventsExample\bin\Debug\EventsExample.exe.config
+D:\Research_and_Development\wpf-research-development\EventsExample\bin\Debug\EventsExample.exe
+D:\Research_and_Development\wpf-research-development\EventsExample\bin\Debug\EventsExample.pdb
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\App.g.cs
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample.g.resources
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample.Properties.Resources.resources
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample.csproj.GenerateResource.cache
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample.exe
+D:\Research_and_Development\wpf-research-development\EventsExample\obj\Debug\EventsExample.pdb
