@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\TextBlockExample\bin\Debug\netcoreapp3.1\TextBlockExample.exe
+D:\Research_and_Development\wpf-research-development\TextBlockExample\bin\Debug\netcoreapp3.1\TextBlockExample.deps.json
+D:\Research_and_Development\wpf-research-development\TextBlockExample\bin\Debug\netcoreapp3.1\TextBlockExample.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\TextBlockExample\bin\Debug\netcoreapp3.1\TextBlockExample.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\TextBlockExample\bin\Debug\netcoreapp3.1\TextBlockExample.dll
+D:\Research_and_Development\wpf-research-development\TextBlockExample\bin\Debug\netcoreapp3.1\TextBlockExample.pdb
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample.g.resources
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample.dll
+D:\Research_and_Development\wpf-research-development\TextBlockExample\obj\Debug\netcoreapp3.1\TextBlockExample.pdb

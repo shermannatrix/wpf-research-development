@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TextBoxSelections"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        Title="MainWindow" Height="150" Width="300">
+    <DockPanel Margin="10">
+        <TextBox SelectionChanged="TextBox_SelectionChanged" DockPanel.Dock="Top" />
+        <TextBox Name="txtStatus" AcceptsReturn="True" TextWrapping="Wrap" IsReadOnly="True" />
+    </DockPanel>
 </Window>

@@ -15,6 +15,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandlingExceptions", "Handl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCultureExample", "ApplicationCultureExample\ApplicationCultureExample.csproj", "{B2E31020-FC83-4C98-A320-8C1AD0DD8349}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBlockExample", "TextBlockExample\TextBlockExample.csproj", "{B6FFBBCB-9F8A-4572-9EB2-3F2DE92E0055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelExample", "LabelExample\LabelExample.csproj", "{65B81DDC-E102-4FE3-8EE2-9655F2D2E42F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsAsLabelContent", "ControlsAsLabelContent\ControlsAsLabelContent.csproj", "{0BF8FCFA-D544-4524-8C2F-0D02987BC6A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxBasics", "TextBoxBasics\TextBoxBasics.csproj", "{D33A0DEC-20EB-48D7-BF6A-A6A9DEC58A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilineTextBox", "MultilineTextBox\MultilineTextBox.csproj", "{17AA803C-7283-4D06-9184-25F02DAD1166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBoxSelections", "TextBoxSelections\TextBoxSelections.csproj", "{1DCA5F75-F84E-4F0E-BB51-0E6ABB55FB43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +57,30 @@ Global
 		{B2E31020-FC83-4C98-A320-8C1AD0DD8349}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2E31020-FC83-4C98-A320-8C1AD0DD8349}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2E31020-FC83-4C98-A320-8C1AD0DD8349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FFBBCB-9F8A-4572-9EB2-3F2DE92E0055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FFBBCB-9F8A-4572-9EB2-3F2DE92E0055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FFBBCB-9F8A-4572-9EB2-3F2DE92E0055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FFBBCB-9F8A-4572-9EB2-3F2DE92E0055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B81DDC-E102-4FE3-8EE2-9655F2D2E42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B81DDC-E102-4FE3-8EE2-9655F2D2E42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B81DDC-E102-4FE3-8EE2-9655F2D2E42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B81DDC-E102-4FE3-8EE2-9655F2D2E42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF8FCFA-D544-4524-8C2F-0D02987BC6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF8FCFA-D544-4524-8C2F-0D02987BC6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF8FCFA-D544-4524-8C2F-0D02987BC6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF8FCFA-D544-4524-8C2F-0D02987BC6A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33A0DEC-20EB-48D7-BF6A-A6A9DEC58A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33A0DEC-20EB-48D7-BF6A-A6A9DEC58A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33A0DEC-20EB-48D7-BF6A-A6A9DEC58A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33A0DEC-20EB-48D7-BF6A-A6A9DEC58A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AA803C-7283-4D06-9184-25F02DAD1166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AA803C-7283-4D06-9184-25F02DAD1166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AA803C-7283-4D06-9184-25F02DAD1166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AA803C-7283-4D06-9184-25F02DAD1166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCA5F75-F84E-4F0E-BB51-0E6ABB55FB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCA5F75-F84E-4F0E-BB51-0E6ABB55FB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCA5F75-F84E-4F0E-BB51-0E6ABB55FB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCA5F75-F84E-4F0E-BB51-0E6ABB55FB43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
