@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\bin\Debug\netcoreapp3.1\ButtonWithPaddings.exe
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\bin\Debug\netcoreapp3.1\ButtonWithPaddings.deps.json
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\bin\Debug\netcoreapp3.1\ButtonWithPaddings.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\bin\Debug\netcoreapp3.1\ButtonWithPaddings.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\bin\Debug\netcoreapp3.1\ButtonWithPaddings.dll
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\bin\Debug\netcoreapp3.1\ButtonWithPaddings.pdb
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings.g.resources
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings.dll
+D:\Research_and_Development\wpf-research-development\ButtonWithPaddings\obj\Debug\netcoreapp3.1\ButtonWithPaddings.pdb
