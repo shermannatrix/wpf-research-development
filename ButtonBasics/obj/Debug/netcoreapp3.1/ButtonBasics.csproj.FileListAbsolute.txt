@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\ButtonBasics\bin\Debug\netcoreapp3.1\ButtonBasics.exe
+D:\Research_and_Development\wpf-research-development\ButtonBasics\bin\Debug\netcoreapp3.1\ButtonBasics.deps.json
+D:\Research_and_Development\wpf-research-development\ButtonBasics\bin\Debug\netcoreapp3.1\ButtonBasics.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\ButtonBasics\bin\Debug\netcoreapp3.1\ButtonBasics.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\ButtonBasics\bin\Debug\netcoreapp3.1\ButtonBasics.dll
+D:\Research_and_Development\wpf-research-development\ButtonBasics\bin\Debug\netcoreapp3.1\ButtonBasics.pdb
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics.g.resources
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics.dll
+D:\Research_and_Development\wpf-research-development\ButtonBasics\obj\Debug\netcoreapp3.1\ButtonBasics.pdb

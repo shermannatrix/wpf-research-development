@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\bin\Debug\netcoreapp3.1\ButtonWithContents.exe
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\bin\Debug\netcoreapp3.1\ButtonWithContents.deps.json
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\bin\Debug\netcoreapp3.1\ButtonWithContents.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\bin\Debug\netcoreapp3.1\ButtonWithContents.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\bin\Debug\netcoreapp3.1\ButtonWithContents.dll
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\bin\Debug\netcoreapp3.1\ButtonWithContents.pdb
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents.g.resources
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents.dll
+D:\Research_and_Development\wpf-research-development\ButtonWithContents\obj\Debug\netcoreapp3.1\ButtonWithContents.pdb
