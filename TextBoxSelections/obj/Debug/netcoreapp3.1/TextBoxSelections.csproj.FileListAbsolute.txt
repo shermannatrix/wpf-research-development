@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\bin\Debug\netcoreapp3.1\TextBoxSelections.exe
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\bin\Debug\netcoreapp3.1\TextBoxSelections.deps.json
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\bin\Debug\netcoreapp3.1\TextBoxSelections.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\bin\Debug\netcoreapp3.1\TextBoxSelections.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\bin\Debug\netcoreapp3.1\TextBoxSelections.dll
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\bin\Debug\netcoreapp3.1\TextBoxSelections.pdb
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections.g.resources
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections.dll
+D:\Research_and_Development\wpf-research-development\TextBoxSelections\obj\Debug\netcoreapp3.1\TextBoxSelections.pdb

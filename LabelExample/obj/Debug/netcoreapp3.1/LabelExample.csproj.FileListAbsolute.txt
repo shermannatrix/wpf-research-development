@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\LabelExample\bin\Debug\netcoreapp3.1\LabelExample.exe
+D:\Research_and_Development\wpf-research-development\LabelExample\bin\Debug\netcoreapp3.1\LabelExample.deps.json
+D:\Research_and_Development\wpf-research-development\LabelExample\bin\Debug\netcoreapp3.1\LabelExample.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\LabelExample\bin\Debug\netcoreapp3.1\LabelExample.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\LabelExample\bin\Debug\netcoreapp3.1\LabelExample.dll
+D:\Research_and_Development\wpf-research-development\LabelExample\bin\Debug\netcoreapp3.1\LabelExample.pdb
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample.g.resources
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample.dll
+D:\Research_and_Development\wpf-research-development\LabelExample\obj\Debug\netcoreapp3.1\LabelExample.pdb

@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\bin\Debug\netcoreapp3.1\TextBoxBasics.exe
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\bin\Debug\netcoreapp3.1\TextBoxBasics.deps.json
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\bin\Debug\netcoreapp3.1\TextBoxBasics.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\bin\Debug\netcoreapp3.1\TextBoxBasics.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\bin\Debug\netcoreapp3.1\TextBoxBasics.dll
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\bin\Debug\netcoreapp3.1\TextBoxBasics.pdb
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics.g.resources
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics.dll
+D:\Research_and_Development\wpf-research-development\TextBoxBasics\obj\Debug\netcoreapp3.1\TextBoxBasics.pdb

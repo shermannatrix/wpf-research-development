@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\bin\Debug\netcoreapp3.1\MultilineTextBox.exe
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\bin\Debug\netcoreapp3.1\MultilineTextBox.deps.json
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\bin\Debug\netcoreapp3.1\MultilineTextBox.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\bin\Debug\netcoreapp3.1\MultilineTextBox.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\bin\Debug\netcoreapp3.1\MultilineTextBox.dll
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\bin\Debug\netcoreapp3.1\MultilineTextBox.pdb
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox.g.resources
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox.dll
+D:\Research_and_Development\wpf-research-development\MultilineTextBox\obj\Debug\netcoreapp3.1\MultilineTextBox.pdb

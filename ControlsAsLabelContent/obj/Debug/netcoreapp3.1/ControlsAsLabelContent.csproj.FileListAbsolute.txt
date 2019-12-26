@@ -1,0 +1,17 @@
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\bin\Debug\netcoreapp3.1\ControlsAsLabelContent.exe
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\bin\Debug\netcoreapp3.1\ControlsAsLabelContent.deps.json
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\bin\Debug\netcoreapp3.1\ControlsAsLabelContent.runtimeconfig.json
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\bin\Debug\netcoreapp3.1\ControlsAsLabelContent.runtimeconfig.dev.json
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\bin\Debug\netcoreapp3.1\ControlsAsLabelContent.dll
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\bin\Debug\netcoreapp3.1\ControlsAsLabelContent.pdb
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent.csprojAssemblyReference.cache
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent_MarkupCompile.cache
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent_MarkupCompile.lref
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent.g.resources
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent.AssemblyInfoInputs.cache
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent.AssemblyInfo.cs
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent.dll
+D:\Research_and_Development\wpf-research-development\ControlsAsLabelContent\obj\Debug\netcoreapp3.1\ControlsAsLabelContent.pdb
